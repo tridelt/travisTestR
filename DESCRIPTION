@@ -1,0 +1,6 @@
+Package: travisTest
+Type: Package
+Title: A 'DBI' Interface to the 'Yandex Clickhouse' Database Providing Basic 'dplyr' Support
+Version: 0.5.1
+Encoding: UTF-8
+Description: 'Luca Tests Clickhouse' (<https://clickhouse.yandex/>) testing
